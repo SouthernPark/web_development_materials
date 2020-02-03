@@ -117,8 +117,27 @@ House个人垃圾：一周收一次 临时收垃圾
 活动图  
 
 ## 需求   
->先写用户需求  
-细化到功能需求  
+User requirements:  
+Customer:
+
+	1.Customer shall sing up and log in before using this application  
+	2.Customer can pay a fee to apply for additional garbage collection times  
+	3.Customer can purchase long - term services  
+	4.Customer can choose to stick with the service or give up the service based on the quotation provided by the manager  
+	5.Customer can apply to cancel the order  
+Driver:  
+
+	1.Driver can log in directly from their work account  
+	2.Driver can view the path plan  
+	3.Driver can update the status of the application  
+
+Manager： 
+
+	1.Managers can log in directory from their work account  
+	2.Manager can view the user’s application and send the quote  
+	3.Manager can approve the customer’s request for cancellation  
+	4.Manager can delay or cancel the service  
+
 
 ## 功能   
 >路径规划  
