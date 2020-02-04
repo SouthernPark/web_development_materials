@@ -48,6 +48,7 @@ Android studio ?
 >Sherlock的学习资料:
 
 		flask 快速入门教程 : https://www.youtube.com/watch?v=RWviEK1Si68&list=PLDFBYdF-BxV1G4FBpG1EMyFtbsbZuJOvD
+		IBM垃圾分类中文版： https://developer.ibm.com/cn/patterns/recycle-with-watson/
 
 >Bruce的学习资料:
 
