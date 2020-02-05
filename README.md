@@ -97,8 +97,32 @@ Android studio ?
 
 ### 3rd_meeting
 
->开会准备:  
- 第二次会议，我们选出了系统的受众(User). 第三次会议，我们将确定系统的User.
+本次开会要明确的内容：    
+>Project Description 方面  
+ 1.确定最终需求。(是使用User Requirement 还是 System Requirement)  
+ 2.确定在Document中的System Boundary Diagram图(System boundary是一个很大的概念，我们使用什么图来表示系统边界)  
+ 3.数据库的Transaction Requirement  
+ 4.hardware 和 software的限制  
+ 
+ >Project Plan方面  
+ 1.我们需要哪些数据: what data will be need to be acquired for the project and where it will be obtained  
+ 2.我们的设计方法是什么，我们将会使用什么设计文档: What design methods will be used and what the design documentation will consist of;  
+ 3.我们将会用到什么硬件和软件,测试方法Implementation stage: What hardware and software will be used; What testing will be carried out  
+ 4.计划:  
+  >A plan in the form of a time-tabled schedule of project activities and outputs will be given.  
+  This should include:  
+  (1).internal milestones(milestone是上学期201 LEC30 讲的概念)  
+  (2).external assessments(不清楚)  
+  (3).external reviews（不清楚）  
+  (4).Project Stages: broken down the project into an appropriate level of detail, you need to indicate what tasks will go into your design and how long you expect each of these tasks to take.  
+  (5).Diagrammatic Representation of the plan (Gantt Chart和Activity Network 课上讲过)  
+ 
+ 6.Risk Accessment  
+ (1) What are the major challenges in carrying out the project;  
+ (2)What new skills will be required and how these will be acquired;  
+ 
+  
+ 
  
 
 
