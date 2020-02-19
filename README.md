@@ -105,6 +105,36 @@ Android studio ?
 本次开会要明确的内容：    
 >Project Description 方面  
  1.确定最终需求。(是使用User Requirement 还是 System Requirement)  
+ 	
+		Requirements: 
+		1.Resident:  
+		Resident can register an account using our online system  
+		Resident can apply for free Refuse Management Service weekly.  
+		Resident can apply for additional non-complimentary Refuse Management Service  
+		Resident can query their refuse collection date using our online system  
+		Resident can request for a few bin using our system  
+		Resident can pay bills for their additional service using our system.  
+		
+		2.Liverpool City Council Officer:  
+		Officer can login into the system using their token.  
+		Ofiicer can approve residents' requests through our system.  
+		Officer can reject residents' requests  
+		Officer can cancle refuse management service that already has  
+		Officer give the bill to customer using additional service quarterly  
+		
+		3.Driver in Liverpool City Council  
+		Driver can log into the system using their token.  
+		Driver can get what they need to do today from our system.  
+		Driver can finish their tasks efficiently by using our optimized map navigation system.  
+		
+		4.Database Administrator  
+		
+		Administrator can access the database directly by using their token.  
+		
+		
+		
+		
+		
  2.确定在Document中的System Boundary Diagram图(System boundary是一个很大的概念，我们使用什么图来表示系统边界)  
  3.数据库的Transaction Requirement  
  4.hardware 和 software的限制  
