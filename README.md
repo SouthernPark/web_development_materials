@@ -11,7 +11,8 @@
 - [会议记录](#会议记录)
 	- [1st_meeting](#1st_meeting)
 	- [2nd_meeting](#2nd_meeting)
-	- [3rd_meeting](#2nd_meeting)
+	- [3rd_meeting](#3rd_meeting)
+	- [7th_meeting](#7th_meeting)
 - [受众](#受众)
 - [画图](#画图)
 - [需求](#需求)
@@ -157,8 +158,14 @@ Android studio ?
  (2)What new skills will be required and how these will be acquired;  
  
   
- 
- 
+### 7th_meeting
+
+>1.根据Feedback更改requirement
+(1)I think you should really be talking a general waste management support system, without specific reference to any city.  
+(2)Over complicated diagrams. For the UCD, could you not identify 4-5 major processes and only display those? (The “Forgot password” bubble is clearly an irrelevant detail)  
+(3)Artificial system requirements.  
+(4)all this seems well achievable (so no need to state some of these objectives as desirable).  
+(5)Particularly important is the control of waste trucks. The local council should control a number of trucks and dynamically allocate trucks to collection requiest, or to the standard bin collection service, with an automatic algorithm.  
 
 
 ## 受众  
