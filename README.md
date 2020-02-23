@@ -160,7 +160,7 @@ Android studio ?
   
 ### 7th_meeting
 
->1.根据Feedback更改requirement
+>1.根据Feedback更改requirement  
 (1)I think you should really be talking a general waste management support system, without specific reference to any city.  
 (2)Over complicated diagrams. For the UCD, could you not identify 4-5 major processes and only display those? (The “Forgot password” bubble is clearly an irrelevant detail)  
 (3)Artificial system requirements.  
