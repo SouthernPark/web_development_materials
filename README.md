@@ -166,6 +166,7 @@ Android studio ?
 (3)Artificial system requirements.  
 (4)all this seems well achievable (so no need to state some of these objectives as desirable).  
 (5)Particularly important is the control of waste trucks. The local council should control a number of trucks and dynamically allocate trucks to collection requiest, or to the standard bin collection service, with an automatic algorithm.  
+(6)更改user view  
 
 
 ## 受众  
